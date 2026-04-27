@@ -1,0 +1,6 @@
+{
+  "name": "Anselmo: El Gran Chef",
+  "description": "Recetario tradicional y antiguo con platos auténticos de todo el mundo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Recipe Generation", "Traditional Culinary Expert"]
+}
